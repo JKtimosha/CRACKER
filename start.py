@@ -76,6 +76,6 @@ async def on_command_error(ctx, error):
 	channel = bot.get_channel(863773962835984384)
 	await channel.send(embed = discord.Embed(description = f"{error}", color = discord.Colour.red()))
 try:
-	bot.run("")
+	bot.run("ODczNTIzNTgzMjE1ODkwNDQy.YQ5qOw.rlahBw03lnbBXFmYYk6FUJWH91U")
 except KeyboardInterrupt:
 	sys.exit()
