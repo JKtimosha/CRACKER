@@ -9,8 +9,6 @@ os.system("cls")
 intents = discord.Intents.all()
 intents.members = True
 banner = f"""
-
-{colorama.Fore.RED}
 Logged as botuser 
 
 """
