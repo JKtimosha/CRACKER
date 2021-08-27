@@ -4,7 +4,6 @@ import requests
 
 
 
-from pymongo import MongoClient
 from discord import *
 from discord import Forbidden
 from datetime import datetime
