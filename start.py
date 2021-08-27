@@ -4,8 +4,7 @@ import sys
 from datetime import datetime
 from discord.ext import commands
 from Cybernator import Paginator
-import colorama
-colorama.init()
+
 os.system("cls")
 intents = discord.Intents.all()
 intents.members = True
