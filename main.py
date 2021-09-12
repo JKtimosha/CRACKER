@@ -210,8 +210,8 @@ def startprint():
                                 {Fore.CYAN}Вошёл как:{Fore.GREEN} {Alucard.user.name}#{Alucard.user.discriminator}
                                 {Fore.CYAN}ID: {Fore.GREEN}{Alucard.user.id}
                                 {Fore.CYAN}Prefix: {Fore.GREEN}{prefix}
-                                {Fore.CYAN}Cracked by: {Fore.GREEN}!narcoMAN1937#1937
-                                {Fore.CYAN}info: {Fore.GREEN}More cracks in our discord server: https://discord.gg/5KFKmSbB8M
+                                {Fore.CYAN}Cracked by: {Fore.GREEN}JKtimosha#7291
+                                {Fore.CYAN}info: {Fore.GREEN}More cracks in our discord server: https://discord.gg/de4VRvr5ab
 
 
 
